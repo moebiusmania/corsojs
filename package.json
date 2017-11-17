@@ -1,0 +1,23 @@
+{
+  "name": "corsojs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -p 8080 -s",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moebiusmania/corsojs.git"
+  },
+  "author": "Salvatore Laisa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moebiusmania/corsojs/issues"
+  },
+  "homepage": "https://github.com/moebiusmania/corsojs#readme",
+  "dependencies": {
+    "http-server": "^0.10.0"
+  }
+}
